@@ -1,1 +1,3 @@
-# TP1_AySO
+# TP1_AySOAlumno: Strack Melany
+Division: 318
+Turno: Noche
